@@ -1,0 +1,71 @@
+@media only screen and (max-width:1024px){
+	.row{
+		margin: 0 15px;
+	}
+	html{
+		font-size: 57.2%;
+	}
+	.text-box {
+		width: 90%;
+	}
+	.testimonial .client-image{
+		width: 100%;
+		float: none;
+		text-align: center;
+	}
+	.client-review{
+		width: 100%;
+		float: none;
+		text-align: center;
+	}
+	.contact-section form{
+		width: 100%;
+		margin-left: 0;
+
+
+
+	}
+
+}
+@media only screen and (max-width:980px){
+	.main-nav{
+		display: none;
+	}
+	.hamburger{
+		display: block;
+	}
+	.span_1_of_4{
+		width: 49.2%;
+	}
+	.span_1_of_4:nth-child(3){
+		margin-left: 0;
+	}
+	html{
+		font-size: 62.5%;
+	}
+}
+
+@media only screen and (max-width:768px){
+
+h1{
+	font-size: 3.5rem;
+}
+h2{
+	font-size: 3rem;
+}
+.secpara{
+	width:90%;
+	margin-left: 0;
+}
+.portfolio-section .portfolio-image{
+	height: auto;
+}
+
+}
+@media only screen and (max-width: 480px){
+
+.span_1_of_4{
+	width: 100%;
+}
+
+}
